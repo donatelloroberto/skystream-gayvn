@@ -4,9 +4,9 @@
   "name": "GXtapes",
   "packageName": "com.gayvn.gxtapes",
   "version": 3,
-  "baseUrl": "https://gay.xtapes.in",
+  "baseUrl": "https://gay.xtapes.tw",
   "description": "Xtapes is the best free full length porn video site. Choose from millions of hardcore videos that stream quickly and in high quality and only full length",
-  "iconUrl": "https://gay.xtapes.in/wp-content/uploads/logo6.png",
+  "iconUrl": "https://gay.xtapes.tw/wp-content/uploads/logo6.png",
   "authors": [
     "Gayvn"
   ],
@@ -19,59 +19,59 @@
   "home": [
     {
       "name": "Latest",
-      "url": "https://gay.xtapes.in/?filtre=date&cat=0"
+      "url": "https://gay.xtapes.tw/?filtre=date&cat=0"
     },
     {
       "name": "Full Movies",
-      "url": "https://gay.xtapes.in/category/porn-movies-214660"
+      "url": "https://gay.xtapes.tw/category/porn-movies-214660"
     },
     {
       "name": "Gang bang & Group",
-      "url": "https://gay.xtapes.in/category/groupsex-gangbang-porn-189457"
+      "url": "https://gay.xtapes.tw/category/groupsex-gangbang-porn-189457"
     },
     {
       "name": "Corbin Fisher",
-      "url": "https://gay.xtapes.in/category/860425"
+      "url": "https://gay.xtapes.tw/category/860425"
     },
     {
       "name": "Timtales",
-      "url": "https://gay.xtapes.in/category/139616"
+      "url": "https://gay.xtapes.tw/category/139616"
     },
     {
       "name": "Bel Ami",
-      "url": "https://gay.xtapes.in/category/687469"
+      "url": "https://gay.xtapes.tw/category/687469"
     },
     {
       "name": "Broke Straight Boys",
-      "url": "https://gay.xtapes.in/category/651571"
+      "url": "https://gay.xtapes.tw/category/651571"
     },
     {
       "name": "BroMo",
-      "url": "https://gay.xtapes.in/category/850356"
+      "url": "https://gay.xtapes.tw/category/850356"
     },
     {
       "name": "CockyBoys",
-      "url": "https://gay.xtapes.in/category/847926"
+      "url": "https://gay.xtapes.tw/category/847926"
     },
     {
       "name": "Sean Cody",
-      "url": "https://gay.xtapes.in/category/346893"
+      "url": "https://gay.xtapes.tw/category/346893"
     },
     {
       "name": "Fraternity X",
-      "url": "https://gay.xtapes.in/category/62478"
+      "url": "https://gay.xtapes.tw/category/62478"
     },
     {
       "name": "Falcon Studio",
-      "url": "https://gay.xtapes.in/category/416510"
+      "url": "https://gay.xtapes.tw/category/416510"
     },
     {
       "name": "Gay Hoopla",
-      "url": "https://gay.xtapes.in/category/37433"
+      "url": "https://gay.xtapes.tw/category/37433"
     },
     {
       "name": "Onlyfans",
-      "url": "https://gay.xtapes.in/category/621537"
+      "url": "https://gay.xtapes.tw/category/621537"
     }
   ],
   "cardSelectors": [
